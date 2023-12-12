@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>CusScrollBar.qml</file>
+        <file>TableWidget.qml</file>
+    </qresource>
+</RCC>
